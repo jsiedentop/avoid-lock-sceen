@@ -31,7 +31,7 @@ namespace AvoidLockScreen
   \__,_| \_/ \___/|_|\__,_|    |_|\___/ \___|_|\_\    |___/\___|_|  \___|\___|_| |_|
 
 
-    ... as long this app is running.");
+    ... as long as this app is running.");
             Console.Read();
         }
     }
